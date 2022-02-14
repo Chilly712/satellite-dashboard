@@ -1,0 +1,16 @@
+skyfield
+numpy
+matplotlib
+openpyxl
+datetime
+requests
+pytz
+flask
+geocoder
+pymemcache
+pip
+wheel
+google
+setuptools
+flask-cors
+python-binary-memcached
